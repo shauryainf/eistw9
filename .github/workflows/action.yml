@@ -16,3 +16,6 @@ jobs:
 
       - name: Check python version
         run: python --version
+
+      - name: Test Action
+        run: echo "Hello, World!"
