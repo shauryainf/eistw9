@@ -19,3 +19,6 @@ jobs:
 
       - name: Test Action
         run: echo "Hello, World!"
+
+      - name: Run python script
+        run: python yoyo.py
